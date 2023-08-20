@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "430876229066",
+    "project_id": "snapnotes-98147",
+    "storage_bucket": "snapnotes-98147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430876229066:android:e849543892dc23315a6333",
+        "android_client_info": {
+          "package_name": "com.snapnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430876229066-s9fdcc0jp4605mbgvebip165n9pm8s67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snapnotes",
+            "certificate_hash": "2c7eae711c51fefb6c2df8ca63424c937587a027"
+          }
+        },
+        {
+          "client_id": "430876229066-bn30f8ag30d0irc2rnbn1ugercbjpo13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2oWPuDSeG-PTBIPnoXH8ij1CA0qufwwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430876229066-58is88rmffjjd166aj1nkg65le8dfohp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
